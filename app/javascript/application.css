@@ -11,3 +11,7 @@
 @import './stylesheets/lesson-content.css';
 @import './stylesheets/prism-theme.css';
 @import './stylesheets/pagy.css';
+
+* {
+    background-color: blue;
+}
